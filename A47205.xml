@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news for England, or, A prediction of the happy success that will attend their Majesties Protestant army now in Ireland, and the miserable fate of the French and Irish papists there in arms and open rebellion against their majesties shewing how that by the policy and power of the great Duke Schomberg and the rest of those worthy gentlemen and soldiers there under his command, the late King James and all his adherents, that do not timely lay hold on their most gracious Majesties act of indemnity, will be totally brought unto ruine and desolation : for Ireland must and will certainly be made subject to King William and Queen Mary / by W. K. Astrologer.</title>
+            <author>W. K., Astrologer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47205</idno>
+            <idno type="STC">Wing K24</idno>
+            <idno type="STC">ESTC R14904</idno>
+            <idno type="EEBO-CITATION">13341543</idno>
+            <idno type="OCLC">ocm 13341543</idno>
+            <idno type="VID">99144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 460:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news for England, or, A prediction of the happy success that will attend their Majesties Protestant army now in Ireland, and the miserable fate of the French and Irish papists there in arms and open rebellion against their majesties shewing how that by the policy and power of the great Duke Schomberg and the rest of those worthy gentlemen and soldiers there under his command, the late King James and all his adherents, that do not timely lay hold on their most gracious Majesties act of indemnity, will be totally brought unto ruine and desolation : for Ireland must and will certainly be made subject to King William and Queen Mary / by W. K. Astrologer.</title>
+                  <author>W. K., Astrologer.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in National Library of Scotland (Advocates').</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99144:1" rendition="simple:additions"/>
+            <p>Good News FOR ENGLAND: OR, A PREDICTION, OF THE Happy Succeſs that will attend Their Majeſties Prote<g ref="char:EOLhyphen"/>ſtant Army now in <hi>Ireland;</hi> and the Miſerable Fate of the <hi>French</hi> and <hi>Iriſh</hi> Papiſts there in Arms and open Rebellion againſt Their Majeſties.</p>
+            <p>SHEWING, How that by the Policy and Power of the Great Duke <hi>Schomberg,</hi> and the reſt of thoſe worthy Gentlemen and Soldiers there under his Command, the late King <hi>James</hi> and all his Adherents (that do not timely lay hold on Their moſt Gracious Majeſties Act of Indemnity) will be totally brought unto Ruine and Deſolation; for <hi>Ireland</hi> muſt and will certainly be made ſubject to King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </p>
+            <p>By <hi>W. K.</hi> Aſtrologer.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed</p>
+                        <closer>
+                           <dateline>
+                              <date>Octob. 2. 1689.</date>
+                           </dateline> 
+                           <signed>J. F.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="astrological_prognostication">
+            <pb facs="tcp:99144:2"/>
+            <pb n="3" facs="tcp:99144:2"/>
+            <head>Good News FOR ENGLAND.</head>
+            <p>THE Noble Science of Aſtrology is an Honeſt, True and Lawful Art and Study, though by two ſorts of Men now adays ſlighted, vilified and condemned, (to wit) the Envious and the Ignorant, both which have been ſuffi<g ref="char:EOLhyphen"/>ciently corrected and refuted by the Learned Champions and Propagators of that ſublime Knowledge.</p>
+            <p>But to come to our intended Buſineſs, an Honourable, Worthy and Loyal Proteſtant Gentleman, with much Earneſtneſs and Affection, deſired me to erect a Scheme, and give him my Judg<g ref="char:EOLhyphen"/>ment on the Affairs now depending in <hi>Ireland,</hi> and according to his deſire, I took the exact time of his propounding the Queſtion, and found the Heavens in the following Poſture: And becauſe it is ſo remarkable and pertinent a Poſition, I was earneſtly ſoli<g ref="char:EOLhyphen"/>cited to make it publick, which I have here done for the Reaſons urged unto me.</p>
+            <p>Now that a Man may lawfully ſeek a Reſolution on any law<g ref="char:EOLhyphen"/>ful Enterprize, is plain from that Example of <hi>David,</hi> who being in <hi>Keilah,</hi> and hearing that <hi>Saul</hi> was advancing towards him, in order to beſiege that City, was deſirous to know whether he would yea or no; and if ſo, then whether the Men of <hi>Keilah</hi> would be true unto him, and not betray him into the Hands of <hi>Saul?</hi>
+            </p>
+            <div type="astrological_diagram">
+               <pb n="4" facs="tcp:99144:3"/>
+               <head>The SCHEME.</head>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Sept.</hi> 21. 1689. at 6 <hi>h. P. M.</hi>
+                     </head>
+                     <figDesc>diagram for astrological prognostication</figDesc>
+                  </figure>
+               </p>
+               <div type="explication_of_diagram">
+                  <head>Judgment on it.</head>
+                  <p>IN this Figure the ſtrength or weakneſs of each Planet is as followeth, <hi>viz. Saturn</hi> is here found ſtrong by eight Teſti<g ref="char:EOLhyphen"/>monies; <hi>Jupiter</hi> is weak by five Teſtimonies; <hi>Mars</hi> is weak by three Teſtimonies; the <hi>Sun</hi> is weak by nine Teſtimonies; <hi>Venus</hi>
+                     <pb n="5" facs="tcp:99144:3"/>is equal in Fortitude, and Debilities; <hi>Mercury</hi> is ſtrong by ſix<g ref="char:EOLhyphen"/>teen Teſtimonies; and the <hi>Moon</hi> is ſtrong by eighteen Teſti<g ref="char:EOLhyphen"/>monies; and thus they ſtand according to their Poſition, omitting the Aſpects either good or evil, which ſhall be conſidered in the Sequel.</p>
+                  <p>By the Strength of the envious Planet <hi>Saturn</hi> in the Seventh, the Houſe repreſenting our Enemy, and the Square of <hi>Venus,</hi> Lady of the Seventh, unto the part of Fortune, and her Oppoſition to <hi>Jupiter</hi> Lord of the Ninth, in the Twelfth Retrograde, with the Oppoſi<g ref="char:EOLhyphen"/>tion of <hi>Saturn</hi> to <hi>Mars</hi> Lord of the Aſcendant, may we plainly ſee the Miſeries, Calamities, Afflictions and Sorrows that have been inflicted upon the poor Proteſtants in the Kingdom of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> by their implacable Enemies; and what unuſual and unnatu<g ref="char:EOLhyphen"/>ral Barbarity would be further committed on all that either op<g ref="char:EOLhyphen"/>poſe them, or diſſent from them in either Principles or Practice, ſhould but their Antichriſtian Arms prevail againſt them.</p>
+                  <p>By the Weakneſs of <hi>Jupiter</hi> in the Twelfth, we may behold what would be the Fate of Religion, or at leaſt the true Profeſ<g ref="char:EOLhyphen"/>ſors thereof, ſhould our Enemies prevail over us, <hi>viz.</hi> The True Religion it ſelf would be contemned, caſt by, and trampled on by thoſe Romiſh Idolators, and the true Profeſſors and Propaga<g ref="char:EOLhyphen"/>tors of true Piety caſt into Priſon, harraſſed and condemned to Death; and others to perpetual Slavery.</p>
+                  <p>By the Weakneſs of <hi>Mars,</hi> Lord of the Aſcendant, and his Affliction by <hi>Saturn</hi> Lord of the Tenth in the Seventh, may we be informed what Kindneſs the People of <hi>England</hi> may expect from a Popiſh King and Governor, ſhould they again have ſuch an Aegyptian Plague or Task-Maſter.</p>
+                  <p>But now let us ſee whether ſuch a thing ſhall be yea or no, or whether the Proteſtant or Popiſh Army ſhall become Lord and Maſter of <hi>Ireland?</hi>
+                  </p>
+                  <p>Never could there have been a Figure erected (had the time been elected) more pertinent to the matter in hand, or intent of the Querent, than this very Face of Heaven is, wherein we have the Sign <hi>Aries</hi> Aſcending, which Sign is truly accounted the Ho<g ref="char:EOLhyphen"/>roſcope of <hi>England,</hi> and <hi>Mars</hi> Lord thereof not long entered <hi>Taurus,</hi> the Sign owning <hi>Ireland,</hi> thereby ſignifying the Engliſh Army now Invading that Kingdom.</p>
+                  <pb n="6" facs="tcp:99144:4"/>
+                  <p> 
+                     <hi>Saturn</hi> and <hi>Mars</hi> are mutually applying to an <hi>Oppoſition</hi> from the Firſt and Seventh Houſe, which imports a Reſolution in both Parties to meet, and that an obſtinate and Dreadful Fight may be expect<g ref="char:EOLhyphen"/>ed between them. <hi>Saturn</hi> is (indeed at preſent) much ſtronger than <hi>Mars,</hi> and there are more Planets relating to the Seventh Houſe, than there are to the Firſt, which ſignifies the Enemy to be more numerous than we; and the Lady of the Seventh Houſe being with <hi>Cor Leonis,</hi> puffs them up with Pride and Haughtineſs, and with an expectation of Succeſs: But Oh! the miſerable diſappoint<g ref="char:EOLhyphen"/>ment that they will certainly meet with, for theſe Reaſons in Art.</p>
+                  <p>Firſt, The Lady of the Seventh, is in the Sixth, in Oppoſition unto <hi>Jupiter</hi> Lord of the Eighth, in the Twelfth, which import<g ref="char:EOLhyphen"/>eth the miſerable Havock that will be made of them by Wounds, Sickneſs, Impriſonment, and Death.</p>
+                  <p>Secondly, The <hi>Sun</hi> is in the Sixth with the <hi>Dragon's Tayl,</hi> which ſignifies Infamy and Diſgrace, if not Impriſonment and Deſtructi<g ref="char:EOLhyphen"/>on to a Great Don amongſt them.</p>
+                  <p>Thirdly, The <hi>Moon,</hi> Lady of the Fourth in the Firſt in her Ex<g ref="char:EOLhyphen"/>altation, is a ſure Argument that the Country of <hi>Ireland</hi> will ſurely fall into our Hands, and wholly at the Proteſtant Diſpoſal and Uſe.</p>
+                  <p>Fourthly, That becauſe <hi>Mars</hi> diſpoſeth of <hi>Saturn,</hi> and <hi>Luna</hi> ſtrong in the Aſcendant, and applying to the <hi>Square</hi> of <hi>Venus,</hi> as ſhe is Lady of the Seventh, there's no doubt but the Enemy will be routed, ſtand they never ſo obſtinate.</p>
+                  <p>Fifthly, The <hi>Trine</hi> of <hi>Jupitur</hi> and <hi>Mercury</hi> ſignifies a Beneficial, Wiſe, and Succeſsful Concluſion of this great Affair unto <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Proteſtant Army; for <hi>Mercury</hi> is very potent in the Figure, and is Lord of the Second Houſe, and <hi>Jupiter</hi> is exalted in the Fourth.</p>
+                  <p>Sixthly, <hi>Mars</hi> is exalted in the Tenth, but <hi>Saturn</hi> hath his Fall in the Aſcendant; <hi>Mars</hi> is Riſing, but <hi>Saturn</hi> is Setting; <hi>Mars</hi> by his Retrograde Motion returns in <hi>Aries</hi> his own Houſe, and there becomes Direct; <hi>Venus,</hi> Lady of the Seventh, is trooping into <hi>Virgo</hi> her Fall; and <hi>Saturn</hi> continueth under the Diſpoſe of <hi>Mars</hi> Lord of the Aſcendant; and the Head of the Dragon is in <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s
+<pb n="7" facs="tcp:99144:4"/>Horoſcope; from all which may thus much be ſaid truly, That the Vanity of the <hi>Papiſts, Jacobites,</hi> or <hi>Grumbletonians</hi> is far beyond Laughter, for to think, or rather dream of a Victory, or that ever the Late King <hi>James</hi> ſhould regain his Abdicated Crown and Dignity, notwithſtanding the Aſſiſtance of his moſt Chriſtian Majeſty. No, the Britiſh Imperial Crowns are ſeated on the Sa<g ref="char:EOLhyphen"/>cred Heads of ſuch as know well how to keep them, to the Ter<g ref="char:EOLhyphen"/>ror and Perplexity of their Enemies, but the due Praiſe and Glory of God.</p>
+               </div>
+            </div>
+            <closer>Vivant Rex Guilielmus, &amp; Regina Maria.</closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>LEt not any Aſtrological Reader wonder that I ſhould be ſo large and peremptory on a Horary Queſtion; for I aſſure him, that I do not reckon it the leaſt part of the Art; tho I really eſteem of eve<g ref="char:EOLhyphen"/>ry part thereof: But for to back the Truth of what I have ſaid on the preceding Figure (with other parts of Aſtrology) let the Ge<g ref="char:EOLhyphen"/>neathliacal Aſtrologer conſider, That ſoon after an Eclipſe of the Sun upon the place of the Sun, in the late Kings Nativity, and the Conjunction of the two Malevolent Planets, on the ſame place he Abdicated his Throne, and hath ever ſince ſtrugled under thoſe In<g ref="char:EOLhyphen"/>fluences, and with French and Iriſh Forces hath been fumbling for it again: But now in <hi>Auguſt</hi> there happened an Oppoſition of thoſe very Planets, <hi>Saturn</hi> then on the very place aforeſaid; ſoon after which the Valiant, Politick, and Succeſsful General <hi>Schom<g ref="char:EOLhyphen"/>berg</hi> with their Majeſties Forces entered that Kingdom; and now about the 22d day of this Inſtant <hi>September,</hi> thoſe Planets make a ſecond Oppoſition, and <hi>Saturn</hi> ſtill near the ſame place, and alſo <hi>Mars</hi> in <hi>Taurus, Ireland</hi>'s Horoſcope; all which, according to Geneath<g ref="char:EOLhyphen"/>liacal and Mundane Aſtrology, doth ſignifie no other than what we have ſaid on this Horary Queſtion; and that the Duke will purchaſe to himſelf and his Army a Laſting Name and Fame, by routing
+<pb n="8" facs="tcp:99144:5"/>the Popiſh Hornets out of the Proteſtant Hive in <hi>Ireland.</hi> And thus much are we encouraged by the Stars, which are Gods In<g ref="char:EOLhyphen"/>ſtruments: Now let us conſider ſome more Divine Incourage<g ref="char:EOLhyphen"/>ment which ſhould animate our Proteſtant Souls and Souldiers to the higheſt pitch of Valour and Proweſs: For, dear Hearts of Gold, you Fight the Lord of Hoſts his Battel; but your Enemy Fights the Battel of their Lord God the Pope; for ſo their great Cardinal <hi>Bellarmine,</hi> and other Belweathers of <hi>Rome</hi> have called him; you fight for the Liberty of the Glorious Goſpel of Jeſus Chriſt: Your Adverſaries Fight for that bundle of Trumpery, the Maſs-Book: You Fight for a Proteſtant King and Queen, that will maintain you and yours in their Juſt Rights and Priviledges: The Enemy Fights to enſlave you and your Poſterity's Souls, Bo<g ref="char:EOLhyphen"/>dies, and Purſes, and devour you by French and Iriſh Canibals: Therefore, although the Enemy (with the Haughty <hi>Sennacherib</hi>) boaſt themſelves in their Multitude, and humane (I had almoſt ſaid inhumane) Strength; yet you know that you go forth to Battel in the Strength of the Lord your God, who can with a ſmall Number, and without Bow or Arrow, Spear or Shield, with a few Lappers of Water, deſtroy the <hi>Midianites</hi> and <hi>Amale<g ref="char:EOLhyphen"/>kites,</hi> although as numerous as Graſhoppers; and I aſſure you (that as in <hi>Deborah</hi> and <hi>Barach</hi>'s time, ſo now) the Stars in their Courſe Fight, and will Fight againſt the Romiſh <hi>Jabin</hi> and <hi>Siſera;</hi> and you have a Mighty Man of Valour and Conduct for your Leader; therefore make good uſe of the Sword of the Lord and of <hi>Gideon,</hi> and the work will be done, to the ſhame of ſuch as Live in a fla<g ref="char:EOLhyphen"/>viſh Fear, or Treaſonable Hope of the late Kings Return.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
